@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: f2761c18fd51acd428b52f706f11674e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm L
+    100002: arm R
+    100004: Armature
+    100006: body
+    100008: Camera
+    100010: //RootNode
+    100012: eye bags L
+    100014: eye bags R
+    100016: eye l
+    100018: eye r
+    100020: Hand L
+    100022: 'Hand L '
+    100024: Hand L_end
+    100026: Hand R
+    100028: Hand R 1
+    100030: Hand R_end
+    100032: Head
+    100034: Head 1
+    100036: Head_end
+    100038: Icosphere
+    100040: Icosphere.001
+    100042: Lamp
+    100044: nose
+    100046: Point
+    100048: sombrero
+    100050: Sphere
+    100052: Sphere.001
+    100054: Sphere.002
+    100056: Sphere.003
+    100058: Sphere.004
+    100060: Sphere.005
+    400000: Arm L
+    400002: arm R
+    400004: Armature
+    400006: body
+    400008: Camera
+    400010: //RootNode
+    400012: eye bags L
+    400014: eye bags R
+    400016: eye l
+    400018: eye r
+    400020: Hand L
+    400022: 'Hand L '
+    400024: Hand L_end
+    400026: Hand R
+    400028: Hand R 1
+    400030: Hand R_end
+    400032: Head
+    400034: Head 1
+    400036: Head_end
+    400038: Icosphere
+    400040: Icosphere.001
+    400042: Lamp
+    400044: nose
+    400046: Point
+    400048: sombrero
+    400050: Sphere
+    400052: Sphere.001
+    400054: Sphere.002
+    400056: Sphere.003
+    400058: Sphere.004
+    400060: Sphere.005
+    2000000: Camera
+    2100000: Material.017
+    2100002: Material.018
+    2100004: Material.016
+    2100006: Material.019
+    2100008: Material.014
+    2100010: Material.015
+    2100012: No Name
+    2100014: Material.011
+    2100016: Material.010
+    2100018: Material.004
+    2100020: Material.003
+    2100022: Material.002
+    2100024: Material
+    2100026: Material.005
+    2100028: Material.006
+    2100030: Material.013
+    2100032: Material.012
+    2100034: Material.001
+    2100036: Material.009
+    2100038: Material.008
+    4300000: Sphere.005
+    4300002: Sphere.004
+    4300004: Sphere.002
+    4300006: Sphere.003
+    4300008: Sphere.001
+    4300010: sombrero
+    4300012: Icosphere.001
+    4300014: Icosphere
+    4300016: eye bags R
+    4300018: eye bags L
+    4300020: eye r
+    4300022: eye l
+    4300024: nose
+    4300026: 'Hand L '
+    4300028: Hand R
+    4300030: Head
+    4300032: Sphere
+    7400000: Armature|idle
+    7400002: Armature|walk
+    7400004: Camera|walk
+    9500000: //RootNode
+    10800000: Lamp
+    10800002: Point
+    13700000: eye bags L
+    13700002: eye bags R
+    13700004: eye l
+    13700006: eye r
+    13700008: 'Hand L '
+    13700010: Hand R
+    13700012: Head
+    13700014: Icosphere
+    13700016: Icosphere.001
+    13700018: nose
+    13700020: sombrero
+    13700022: Sphere
+    13700024: Sphere.001
+    13700026: Sphere.002
+    13700028: Sphere.003
+    13700030: Sphere.004
+    13700032: Sphere.005
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|idle
+      takeName: Armature|idle
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|walk
+      takeName: Armature|walk
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Camera|walk
+      takeName: Camera|walk
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
