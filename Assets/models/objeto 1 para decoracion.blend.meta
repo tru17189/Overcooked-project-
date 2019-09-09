@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 1ea8880802e10c2438f0a109755a23b6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: eye_bags_L
+    100002: eye_bags_R
+    100004: eye_l
+    100006: eye_r
+    100008: Head
+    100010: Icosphere
+    100012: Icosphere_001
+    100014: nose
+    100016: //RootNode
+    100018: Sphere
+    100020: Sphere_001
+    100022: Sphere_002
+    100024: Sphere_003
+    100026: Sphere_004
+    400000: eye_bags_L
+    400002: eye_bags_R
+    400004: eye_l
+    400006: eye_r
+    400008: Head
+    400010: Icosphere
+    400012: Icosphere_001
+    400014: nose
+    400016: //RootNode
+    400018: Sphere
+    400020: Sphere_001
+    400022: Sphere_002
+    400024: Sphere_003
+    400026: Sphere_004
+    2100000: unnamed
+    2100002: Material_021
+    2100004: Material_020
+    2100006: Material_007
+    2100008: Material_011
+    2100010: Material_010
+    2100012: Material_004
+    2100014: Material_003
+    2100016: Material_002
+    2100018: Material
+    2100020: Material_005
+    2100022: Material_006
+    2100024: Material_001
+    2100026: Material_022
+    2100028: Material_023
+    2300000: eye_bags_L
+    2300002: eye_bags_R
+    2300004: eye_l
+    2300006: eye_r
+    2300008: Head
+    2300010: Icosphere
+    2300012: Icosphere_001
+    2300014: nose
+    2300016: Sphere
+    2300018: Sphere_001
+    2300020: Sphere_002
+    2300022: Sphere_003
+    2300024: Sphere_004
+    3300000: eye_bags_L
+    3300002: eye_bags_R
+    3300004: eye_l
+    3300006: eye_r
+    3300008: Head
+    3300010: Icosphere
+    3300012: Icosphere_001
+    3300014: nose
+    3300016: Sphere
+    3300018: Sphere_001
+    3300020: Sphere_002
+    3300022: Sphere_003
+    3300024: Sphere_004
+    4300000: Sphere_003
+    4300002: Sphere_001
+    4300004: Sphere
+    4300006: Icosphere_001
+    4300008: Icosphere
+    4300010: eye_bags_R
+    4300012: eye_bags_L
+    4300014: eye_r
+    4300016: eye_l
+    4300018: nose
+    4300020: Head
+    4300022: Sphere_002
+    4300024: Sphere_004
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
